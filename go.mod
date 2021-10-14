@@ -1,4 +1,4 @@
-module github.com/ahmetb/serverless-url-shortener
+module github.com/bakyazi/sheets-url-shortener
 
 go 1.14
 
